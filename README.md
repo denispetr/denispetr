@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @denispetr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: denys.petrochuk@gmail.com
 
 <!---
